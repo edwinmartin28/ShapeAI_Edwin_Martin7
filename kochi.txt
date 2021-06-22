@@ -1,0 +1,8 @@
+Enter the city name: Kochi
+-------------------------------------------------------------
+Weather Stats for - KOCHI  || 22 Jun 2021 | 10:32:35 AM
+-------------------------------------------------------------
+Current temperature is: 28.99 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 81 %
+Current wind speed    : 6.15 kmph
